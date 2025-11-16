@@ -62,18 +62,17 @@ Registration Flow:
 
 Collecting points at activations with NFC tap:
 
-👉 [AttendeShip Documentation (PDF)](./docs/01_Sub0_App-Earn_Points-NFC_Tap_Flow.pdf)
-
+<img src="./docs/01_Sub0_App-Earn_Points-NFC_Tap_Flow.pngg" alt="AttendeShip Logo1"/>
 
 Collecting points at activations with QR scan:
 
-👉 [AttendeShip Documentation (PDF)](./docs/02_Sub0_App-Earn_Points-QR_Scan_Flow.pdf)
+<img src="./docs/02_Sub0_App-Earn_Points-QR_Scan_Flow.png" alt="AttendeShip Logo1"/>
 
 Viewing balances:
 
-👉 [AttendeShip Documentation (PDF)](./docs/03_Sub0_App-Check_Balance_Flow.pdf)
+<img src="./docs/03_Sub0_App-Check_Balance_Flow.png" alt="AttendeShip Logo1"/>
 
 
 Paying for things with points:
 
-👉 [AttendeShip Documentation (PDF)](./docs/04_Sub0_App_-_Merchandise_Redemption_Flow.pdf)
+<img src="./docs/04_Sub0_App_-_Merchandise_Redemption_Flow.png" alt="AttendeShip Logo1"/>
