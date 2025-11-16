@@ -284,11 +284,11 @@ data class User(
 ## Team & Resources
 
 ### Team Structure
-- **Project Lead:** [Name]
-- **Android Developers:** [Names]
-- **UI/UX Designer:** [Name]
-- **QA Engineer:** [Name]
-- **DevOps Engineer:** [Name]
+- **Project Lead:** Ayushi Sharma
+- **Android Developers:** Ayushi Sharma, Inderdeep Singh Khanna
+- **UI/UX Designer:** Ayushi Sharma, Inderdeep Singh Khanna
+- **QA Engineer:** Ayushi Sharma, Inderdeep Singh Khanna
+- **DevOps Engineer:** Ayushi Sharma, Inderdeep Singh Khanna
 
 ### Required Resources
 - Android development devices for testing
