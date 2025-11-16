@@ -57,7 +57,7 @@ Project Workflows
 
 Registration Flow:
 
-👉 [AttendeShip Documentation (PDF)](./docs/00_Sub0_App-Registration_flow.pdf)
+<img src="./docs/00_Sub0_App-Registration_flow.png" alt="AttendeShip Logo"/>
 
 
 Collecting points at activations with NFC tap:
